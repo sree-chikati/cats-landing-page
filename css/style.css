@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+h2 {
+  color: #8674FC;
+}
+
+p{
+  color: #00DEA0;
+}
+
+.inverted-colors {
+  /* black */
+  background-color: #000000;
+
+  /* white */
+  color: #ffffff;
+}
+
+#unique-list-item {
+  color: #007CED;
+}
