@@ -1,23 +1,23 @@
 h1 {
-    color: red;
+  color: #000000;
+  font-size: 36px;
 }
 
 h2 {
-  color: #8674FC;
+  color: #000000;
 }
 
-p{
-  color: #00DEA0;
+p {
+  font-size: 20px;
 }
 
-.inverted-colors {
-  /* black */
-  background-color: #000000;
-
-  /* white */
-  color: #ffffff;
+li {
+  margin-bottom: 8px;
 }
 
-#unique-list-item {
-  color: #007CED;
+ul {
+  background-color: #F7F9FC;
+  margin-top: 25px;
+  padding: 30px 55px;
+  border-radius: 8px;
 }
